@@ -18,9 +18,9 @@ The 2024 image reveals **reduced snow and ice extent** compared to 2013, with mo
 FCC imagery is invaluable for glacier monitoring as it visualizes spectral information beyond human vision — particularly in the **shortwave and near-infrared** regions — allowing detection of **glacial retreat, moraine changes,** and **surface composition** shifts with high precision.
 
 **Images:**
-![Rikha Samba Glacier - 2013](images/rikha_samba_2013.png)
-![Rikha Samba Glacier - 2024](images/rikha_samba_2024.png)
-![Glacier Difference Map (2024–2013)](images/rikha_samba_diff.png)
+- ![Rikha Samba Glacier - 2013](images/rikha_samba_2013.png)
+- ![Rikha Samba Glacier - 2024](images/rikha_samba_2024.png)
+- ![Glacier Difference Map (2024–2013)](images/rikha_samba_diff.png)
 
 ---
 
@@ -37,7 +37,7 @@ A **30-day rolling average** highlights:
 Such warming reduces glacial accumulation and enhances melt during warmer months. The observed **temperature rise** directly correlates with the **glacial retreat** seen in the FCC analysis, underscoring the vulnerability of Himalayan glaciers to even small changes in mean temperature.
 
 **Image:**
-![Daily Mean Temperature (1990–2025)](images/temperature_timeseries.png)
+- ![Daily Mean Temperature (1990–2025)](images/temperature_timeseries.png)
 
 ---
 
