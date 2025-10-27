@@ -21,11 +21,11 @@ FCC imagery is invaluable for glacier monitoring as it visualizes spectral infor
 Rikha Samba Glacier, 2013
 ![Rikha Samba Glacier - 2013](images/rikha_samba_2013.png)
 
-Rikha Samba Glacier, 2024 (images/rikha_samba_2024.png)
+Rikha Samba Glacier, 2024
 ![Rikha Samba Glacier - 2024](images/rikha_samba_2024.png)
 
 
-Glacier Difference Map (2024–2013) (images/rikha_samba_diff.png)
+Glacier Difference Map (2024–2013)
 ![Glacier Difference Map (2024–2013)](images/rikha_samba_diff.png)
 
 
