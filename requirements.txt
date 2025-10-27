@@ -1,0 +1,7 @@
+earthengine-api
+geemap
+matplotlib
+openmeteo_requests
+pandas
+requests_cache
+retry_requests
