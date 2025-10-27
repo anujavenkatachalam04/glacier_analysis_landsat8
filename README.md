@@ -51,5 +51,4 @@ Daily Mean Temperature (1990–2025)
 
 *Data Sources:*  
 - **Landsat-8** (NASA–USGS) via Google Earth Engine  
-- **ERA5-Land** (Copernicus Climate Data Store)  
-- **Open-Meteo API** (for historical temperature extraction)
+- **ERA5-Land** (Copernicus Climate Data Store) via Open-Meteo API
